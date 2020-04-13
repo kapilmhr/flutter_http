@@ -3,7 +3,7 @@
 A new Flutter application to show https call and json serialization
 
 ## Demo
-![](sample/screen.gif)
+![](https://github.com/kapilmhr/flutter_http/blob/master/demo/screen.gif)
 
 ## Used Pacakges
 
