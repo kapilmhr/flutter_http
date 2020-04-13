@@ -11,4 +11,5 @@ Here are the used pacakges:
 
 - [Http - network call](https://pub.dev/packages/http)
 - [Json Annotation - Json Parsing](https://pub.dev/packages/json_annotation)
+- [Cached Network Image - Fetch Image From Network and Cache it](https://pub.dev/packages/cached_network_image)
 

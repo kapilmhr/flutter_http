@@ -6,8 +6,9 @@ part 'flowers.g.dart';
 class Flower {
   String name;
   String category;
+  String photo;
 
-  Flower({this.name, this.category});
+  Flower({this.name, this.category, this.photo});
 
   factory Flower.fromJson(Map<String, dynamic> json) => _$FlowerFromJson(json);
 
