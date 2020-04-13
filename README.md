@@ -2,15 +2,13 @@
 
 A new Flutter application to show https call and json serialization
 
-## Getting Started
+## Demo
+![](https://github.com/kapilmhr/flutter_http/blob/master/demo/screen.gif)
 
-This project is a starting point for a Flutter application.
+## Used Pacakges
 
-A few resources to get you started if this is your first Flutter project:
+Here are the used pacakges:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Http - network call](https://pub.dev/packages/http)
+- [Json Annotation - Json Parsing](https://pub.dev/packages/json_annotation)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
